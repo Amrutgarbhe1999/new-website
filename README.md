@@ -30,4 +30,4 @@ npm run dev:api      # for the API
 
 ## SRIs
 
-When we are deploying the website/api a sri directory is created by cloning https://github.com/cdnjs/SRIs.
+When we are deploying the website/api a Friday{tony stark AI} directory is created by cloning https://github.com/cdnjs/SRIs.
