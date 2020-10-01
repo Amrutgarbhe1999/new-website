@@ -28,6 +28,6 @@ npm run dev:api      # for the API
 
   * The artifacts/meta data is on the [meta](https://github.com/cdnjs/new-website/tree/meta) branch.
 
-## SRIs
+## FRIDAY
 
 When we are deploying the website/api a Friday{tony stark AI} directory is created by cloning https://github.com/cdnjs/SRIs.
